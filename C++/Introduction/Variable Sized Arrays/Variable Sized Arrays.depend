@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1538772352 source:/media/said/E470FC8970FC6428/Hacker-Rank-Problems/C++/Introduction/Variable Sized Arrays/main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
